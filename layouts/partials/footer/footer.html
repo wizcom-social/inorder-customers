@@ -1,0 +1,71 @@
+<footer class="footer text-muted mt-auto">
+  <div class="container-{{ site.Params.doks.containerBreakpoint | default "lg" }}">
+    <div class="row">
+      <div class="col-lg-8 text-center text-lg-start">
+        <ul class="list-inline">
+          {{ range .Site.Menus.footer -}}
+            <li class="list-inline-item"><a class="text-muted" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+      <div class="col-lg-8 text-center text-lg-end">
+        <ul class="list-inline">
+          <li class="list-inline-item">{{ site.Params.footer | safeHTML }}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Εντοπισμός όλων των εικόνων στο document
+    const images = document.querySelectorAll('img');
+
+    // Εφαρμογή lightbox σε όλες τις εικόνες
+    images.forEach(img => {
+      // Δημιουργία συνδέσμου που οδηγεί στην πλήρη εικόνα
+      const link = document.createElement('a');
+      link.href = img.src;
+      link.classList.add('glightbox');
+
+      // Προσθήκη της εικόνας μέσα στον σύνδεσμο
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    });
+
+    // Αρχικοποίηση του GLightbox
+    const lightbox = GLightbox({
+      selector: '.glightbox'
+    });
+  });
+</script>
+<script>
+  caches.keys().then(function(names) {
+    for (let name of names) caches.delete(name);
+});
+</script>
+<script>
+  document.querySelectorAll('table').forEach(function(table) {
+    table.classList.add('table', 'table-striped');
+
+    table.querySelectorAll('tr').forEach(function(row) {
+      let isEmpty = true;
+
+      row.querySelectorAll('td').forEach(function(cell) {
+
+        let cellContent = cell.textContent.replace(/\s|\u200B/g, '').trim();
+        if (cellContent !== '') {
+          isEmpty = false;
+        }
+      });
+
+      if (isEmpty) {
+        row.remove();
+      }
+    });
+  });
+</script>
+
+
+
