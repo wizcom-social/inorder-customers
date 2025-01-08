@@ -1,7 +1,7 @@
 # Hugo
 title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
-images = ["cover.png"]
+description = "Οδηγίες χρήσης wizcom inOrder"
+logo= "images/inorder.png"
 
 # mainSections
 mainSections = ["docs"]

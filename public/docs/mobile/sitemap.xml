@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</loc>
+      <lastmod>2025-01-08T10:30:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
+      <lastmod>2025-01-08T14:03:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>

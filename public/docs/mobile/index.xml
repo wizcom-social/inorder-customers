@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inOrder Mobile on inOrder Guides</title>
+    <link>http://localhost:1313/docs/mobile/</link>
+    <description>Recent content in inOrder Mobile on inOrder Guides</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Wed, 08 Jan 2025 14:03:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Εισαγωγή</title>
+      <link>http://localhost:1313/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
+      <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</guid>
+      <description>Οδηγίες χρήσης inOrder Mobile</description>
+    </item>
+    <item>
+      <title>Παραγγελία</title>
+      <link>http://localhost:1313/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</link>
+      <pubDate>Wed, 08 Jan 2025 14:03:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</guid>
+      <description>Παραγγελία inOrder Mobile</description>
+    </item>
+  </channel>
+</rss>

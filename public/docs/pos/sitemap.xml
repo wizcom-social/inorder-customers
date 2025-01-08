@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</loc>
+      <lastmod>2025-01-03T10:29:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</loc>
+      <lastmod>2025-01-02T10:48:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</loc>
+      <lastmod>2025-01-02T10:53:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/pos/dinein/</loc>
+      <lastmod>2024-12-31T15:35:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/pos/delivery/</loc>
+      <lastmod>2025-01-02T14:25:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+    <url>
+      <loc>http://localhost:1313/docs/pos/self-service-/-take-away/</loc>
+      <lastmod>2025-01-03T14:05:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    </urlset>

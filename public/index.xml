@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Doks on inOrder Guides</title>
+    <title>inOrder Guides</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to Doks on inOrder Guides</description>
+    <description>Recent content on inOrder Guides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Tue, 31 Dec 2024 13:23:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 14:03:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
@@ -17,32 +17,67 @@
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
-      <title>Example Guide</title>
-      <link>http://localhost:1313/docs/guides/example-guide/</link>
-      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>http://localhost:1313/docs/guides/example-guide/</guid>
-      <description>&lt;p&gt;Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.&lt;/p&gt;</description>
+      <title>Εισαγωγή και περιβάλλον inOrder POS</title>
+      <link>http://localhost:1313/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</link>
+      <pubDate>Fri, 03 Jan 2025 10:29:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</guid>
+      <description>Εισαγωγή και περιβάλλον inOrder POS</description>
     </item>
     <item>
-      <title>Example Reference</title>
-      <link>http://localhost:1313/docs/reference/example-reference/</link>
-      <pubDate>Thu, 07 Sep 2023 16:13:18 +0200</pubDate>
-      <guid>http://localhost:1313/docs/reference/example-reference/</guid>
-      <description>&lt;p&gt;Reference pages are ideal for outlining how things work in terse and clear terms. Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what your documenting.&lt;/p&gt;</description>
+      <title>Άνοιγμα - Κλείσιμο βάρδιας</title>
+      <link>http://localhost:1313/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</link>
+      <pubDate>Tue, 31 Dec 2024 15:57:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
+      <description>Άνοιγμα Κλείσιμο βάρδιας</description>
     </item>
     <item>
-      <title>Resources</title>
-      <link>http://localhost:1313/docs/resources/</link>
-      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
-      <guid>http://localhost:1313/docs/resources/</guid>
-      <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
+      <title>Κλείσιμο ημέρας</title>
+      <link>http://localhost:1313/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</link>
+      <pubDate>Thu, 02 Jan 2025 10:53:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</guid>
+      <description>Κλείσιμο ημέρας</description>
     </item>
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 07 Sep 2023 17:19:07 +0200</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description></description>
+      <title>DineIn</title>
+      <link>http://localhost:1313/docs/pos/dinein/</link>
+      <pubDate>Tue, 31 Dec 2024 15:35:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/pos/dinein/</guid>
+      <description>Dine In</description>
+    </item>
+    <item>
+      <title>Delivery</title>
+      <link>http://localhost:1313/docs/pos/delivery/</link>
+      <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/pos/delivery/</guid>
+      <description>Delivery</description>
+    </item>
+    <item>
+      <title>Self service / Take away</title>
+      <link>http://localhost:1313/docs/pos/self-service-/-take-away/</link>
+      <pubDate>Fri, 03 Jan 2025 14:05:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/pos/self-service-/-take-away/</guid>
+      <description>Self service / Take away</description>
+    </item>
+    <item>
+      <title>Εισαγωγή</title>
+      <link>http://localhost:1313/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
+      <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</guid>
+      <description>Οδηγίες χρήσης inOrder Mobile</description>
+    </item>
+    <item>
+      <title>Παραγγελία</title>
+      <link>http://localhost:1313/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</link>
+      <pubDate>Wed, 08 Jan 2025 14:03:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</guid>
+      <description>Παραγγελία inOrder Mobile</description>
+    </item>
+    <item>
+      <title>Εισαγωγή inOrder BackOffice</title>
+      <link>http://localhost:1313/docs/backoffice/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-inorder-backoffice/</link>
+      <pubDate>Thu, 02 Jan 2025 16:05:00 +0200</pubDate>
+      <guid>http://localhost:1313/docs/backoffice/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-inorder-backoffice/</guid>
+      <description>Εισαγωγή</description>
     </item>
   </channel>
 </rss>

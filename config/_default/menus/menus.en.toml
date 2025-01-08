@@ -72,6 +72,21 @@
   name = "Resources"
   pageRef = "/docs/resources"
   weight = 30
+[[sidebar_docs]]
+  name = "inOrder POS"
+  pageRef = "/docs/pos"
+  weight = 300
+
+[[sidebar_docs]]
+  name = "inOrder Mobile"
+  pageRef = "/docs/mobile"
+  weight = 400
+
+ [[sidebar_docs]]
+  name = "inOrder Backoffice"
+  pageRef = "/docs/backoffice"
+  weight = 500
+
 
 [[footer]]
   name = "Privacy Policy"
