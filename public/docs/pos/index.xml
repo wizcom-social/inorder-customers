@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 10:31:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 16:35:00 +0200</lastBuildDate>
     <atom:link href="https://wiki.inorder.gr/docs/pos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Εισαγωγή και περιβάλλον inOrder POS</title>
@@ -31,18 +31,18 @@
       <description>Κλείσιμο ημέρας</description>
     </item>
     <item>
-      <title>DineIn</title>
-      <link>https://wiki.inorder.gr/docs/pos/dinein/</link>
+      <title>DineIn (Σαλόνι)</title>
+      <link>https://wiki.inorder.gr/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</link>
       <pubDate>Tue, 31 Dec 2024 15:35:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/dinein/</guid>
-      <description>Dine In</description>
+      <guid>https://wiki.inorder.gr/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</guid>
+      <description>DineIn (Σαλόνι)</description>
     </item>
     <item>
-      <title>Delivery</title>
-      <link>https://wiki.inorder.gr/docs/pos/delivery/</link>
+      <title>Delivery (Διανομή)</title>
+      <link>https://wiki.inorder.gr/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/delivery/</guid>
-      <description>Delivery</description>
+      <guid>https://wiki.inorder.gr/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
+      <description>Delivery (Διανομή)</description>
     </item>
     <item>
       <title>Self service / Take away</title>
