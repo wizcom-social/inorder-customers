@@ -2,31 +2,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://wiki.inorder.gr/docs/mobile/</loc>
-      <lastmod>2023-09-07T16:12:37+02:00</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
-    </url>
-    
-    <url>
       <loc>https://wiki.inorder.gr/docs/pos/</loc>
       <lastmod>2024-12-31T15:11:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
+    
     <url>
-        <loc>https://wiki.inorder.gr/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</loc>
-        <lastmod>2025-01-08T10:30:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
-        <loc>https://wiki.inorder.gr/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
-        <lastmod>2025-01-08T14:03:00+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      </url>
-      <url>
+      <loc>https://wiki.inorder.gr/docs/mobile/</loc>
+      <lastmod>2023-09-07T16:12:37+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://wiki.inorder.gr/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</loc>
         <lastmod>2025-01-29T16:35:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -71,6 +59,18 @@
       <url>
         <loc>https://wiki.inorder.gr/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</loc>
         <lastmod>2025-01-16T10:31:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://wiki.inorder.gr/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</loc>
+        <lastmod>2025-01-08T10:30:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://wiki.inorder.gr/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
+        <lastmod>2025-01-08T14:03:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
