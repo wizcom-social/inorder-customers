@@ -1,5 +1,5 @@
 title = "inOrder Guides"
-baseurl = "http://localhost/"
+baseurl = "https://wiki.wizcom.gr/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
