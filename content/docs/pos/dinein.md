@@ -1,7 +1,7 @@
 ---
-title: DineIn
-description: Dine In
-summary: Dine In
+title: DineIn (Σαλόνι)
+description: DineIn (Σαλόνι)
+summary: DineIn (Σαλόνι)
 date: 2024-12-31T15:35:00+02:00
 lastmod: 2024-12-31T15:35:00+02:00
 draft: false
