@@ -1,7 +1,7 @@
 ---
-title: Delivery
-description: Delivery
-summary: Delivery
+title: Delivery (Διανομή)
+description: Delivery (Διανομή)
+summary: Delivery (Διανομή)
 date: 2025-01-02T14:25:00+02:00
 lastmod: 2025-01-02T14:25:00+02:00
 draft: false
