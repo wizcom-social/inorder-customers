@@ -31,20 +31,6 @@
       <description>Παραγγελία inOrder Mobile</description>
     </item>
     <item>
-      <title>Example Guide</title>
-      <link>https://wiki.inorder.gr/docs/guides/example-guide/</link>
-      <pubDate>Thu, 07 Sep 2023 16:04:48 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/guides/example-guide/</guid>
-      <description>&lt;p&gt;Guides lead a user through a specific task they want to accomplish, often with a sequence of steps. Writing a good guide requires thinking about what your users are trying to do.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>https://wiki.inorder.gr/docs/resources/</link>
-      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
-      <guid>https://wiki.inorder.gr/docs/resources/</guid>
-      <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Εισαγωγή και περιβάλλον inOrder POS</title>
       <link>https://wiki.inorder.gr/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</link>
       <pubDate>Fri, 03 Jan 2025 10:29:00 +0200</pubDate>
@@ -78,6 +64,20 @@
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
       <description>Delivery (Διανομή)</description>
+    </item>
+    <item>
+      <title>Self service / Take away</title>
+      <link>https://wiki.inorder.gr/docs/pos/self-service-/-take-away/</link>
+      <pubDate>Fri, 03 Jan 2025 14:05:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/pos/self-service-/-take-away/</guid>
+      <description>Self service / Take away</description>
+    </item>
+    <item>
+      <title>Έκπτωση</title>
+      <link>https://wiki.inorder.gr/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+      <pubDate>Wed, 04 Dec 2024 12:14:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
+      <description>Έκπτωση (Είδος, παραγγελία)</description>
     </item>
   </channel>
 </rss>
