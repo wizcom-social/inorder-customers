@@ -51,6 +51,8 @@ collections:
       slug: '{{slug}}'
       editor:
           preview: true
+      nested:
+          depth: 2
       fields:
           - { label: 'Title', name: 'title', widget: 'string', required: true }
           - { label: 'Description', name: 'description', widget: 'string', required: false }
