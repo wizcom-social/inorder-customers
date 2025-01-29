@@ -49,8 +49,9 @@ collections:
       folder: 'content/docs/pos'
       create: true
       slug: '{{slug}}'
-      media_folder: assets/images/pos
-      public_folder: /images/pos
+      path: '{{slug}}/index'
+      media_folder: ''
+      public_folder: ''
       editor:
           preview: true
       fields:
