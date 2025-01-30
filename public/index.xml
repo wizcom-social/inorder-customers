@@ -38,6 +38,13 @@
       <description>Κλείσιμο ημέρας</description>
     </item>
     <item>
+      <title>Παραγγελία</title>
+      <link>https://wiki.inorder.gr/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</link>
+      <pubDate>Wed, 29 Jan 2025 15:07:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</guid>
+      <description>Παραγγελία</description>
+    </item>
+    <item>
       <title>DineIn (Σαλόνι)</title>
       <link>https://wiki.inorder.gr/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</link>
       <pubDate>Tue, 31 Dec 2024 15:35:00 +0200</pubDate>
@@ -71,13 +78,6 @@
       <pubDate>Thu, 16 Jan 2025 10:31:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</guid>
       <description>Οδηγίες έκδοσης τιμολογίου</description>
-    </item>
-    <item>
-      <title>Εισαγωγή</title>
-      <link>https://wiki.inorder.gr/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
-      <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</guid>
-      <description>Οδηγίες χρήσης inOrder Mobile</description>
     </item>
   </channel>
 </rss>
