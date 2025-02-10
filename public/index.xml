@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inOrder Guides</title>
-    <link>https://wiki.inorder.gr/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on inOrder Guides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Wed, 29 Jan 2025 16:35:00 +0200</lastBuildDate>
-    <atom:link href="https://wiki.inorder.gr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Post</title>
-      <link>https://wiki.inorder.gr/blog/example-post/</link>
+      <link>http://localhost:1313/blog/example-post/</link>
       <pubDate>Thu, 07 Sep 2023 16:27:22 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/blog/example-post/</guid>
+      <guid>http://localhost:1313/blog/example-post/</guid>
       <description>You can use blog posts for announcing product updates and features.</description>
     </item>
     <item>
       <title>Εισαγωγή και περιβάλλον inOrder POS</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</link>
+      <link>http://localhost:1313/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</link>
       <pubDate>Fri, 03 Jan 2025 10:29:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</guid>
+      <guid>http://localhost:1313/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</guid>
       <description>Εισαγωγή και περιβάλλον inOrder POS</description>
     </item>
     <item>
       <title>Άνοιγμα - Κλείσιμο βάρδιας</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</link>
+      <link>http://localhost:1313/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</link>
       <pubDate>Tue, 31 Dec 2024 15:57:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
+      <guid>http://localhost:1313/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
       <description>Άνοιγμα Κλείσιμο βάρδιας</description>
     </item>
     <item>
       <title>Κλείσιμο ημέρας</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</link>
+      <link>http://localhost:1313/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</link>
       <pubDate>Thu, 02 Jan 2025 10:53:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</guid>
+      <guid>http://localhost:1313/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</guid>
       <description>Κλείσιμο ημέρας</description>
     </item>
     <item>
       <title>Παραγγελία</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</link>
+      <link>http://localhost:1313/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</link>
       <pubDate>Wed, 29 Jan 2025 15:07:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</guid>
+      <guid>http://localhost:1313/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</guid>
       <description>Παραγγελία</description>
     </item>
     <item>
       <title>DineIn (Σαλόνι)</title>
-      <link>https://wiki.inorder.gr/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</link>
+      <link>http://localhost:1313/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</link>
       <pubDate>Tue, 31 Dec 2024 15:35:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</guid>
+      <guid>http://localhost:1313/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</guid>
       <description>DineIn (Σαλόνι)</description>
     </item>
     <item>
       <title>Delivery (Διανομή)</title>
-      <link>https://wiki.inorder.gr/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
+      <link>http://localhost:1313/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
+      <guid>http://localhost:1313/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
       <description>Delivery (Διανομή)</description>
     </item>
     <item>
       <title>Self service / Take away</title>
-      <link>https://wiki.inorder.gr/docs/pos/self-service-/-take-away/</link>
+      <link>http://localhost:1313/docs/pos/self-service-/-take-away/</link>
       <pubDate>Fri, 03 Jan 2025 14:05:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/self-service-/-take-away/</guid>
+      <guid>http://localhost:1313/docs/pos/self-service-/-take-away/</guid>
       <description>Self service / Take away</description>
     </item>
     <item>
       <title>Έκπτωση</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+      <link>http://localhost:1313/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
       <pubDate>Wed, 04 Dec 2024 12:14:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
+      <guid>http://localhost:1313/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
       <description>Έκπτωση (Είδος, παραγγελία)</description>
     </item>
     <item>
       <title>Οδηγίες έκδοσης τιμολογίου</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</link>
+      <link>http://localhost:1313/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</link>
       <pubDate>Thu, 16 Jan 2025 10:31:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</guid>
+      <guid>http://localhost:1313/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</guid>
       <description>Οδηγίες έκδοσης τιμολογίου</description>
     </item>
   </channel>
