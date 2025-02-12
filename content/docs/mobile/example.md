@@ -12,6 +12,10 @@ seo:
   description: Εισαγωγή και περιβάλλον inOrder Mobile
   canonical: ""
   noindex: false
+tags:
+  - mobile service host
+contributors:
+  - wizcom
 ---
 Για να τρέξει η εφαρμογή στο κινητό πρέπει:
 

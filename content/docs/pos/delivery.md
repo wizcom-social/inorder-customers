@@ -11,7 +11,13 @@ seo:
   noindex: false
   title: Delivery
   description: Delivery
+tags:
+  - Delivery
+  - Διανομή
+contributors:
+  - wizcom
 ---
+
 ## Είσοδος
 
 ![](/images/delivery-001.jpg)

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Έκπτωση on inOrder Guides</title>
+    <link>https://wiki.inorder.gr/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+    <description>Recent content in Έκπτωση on inOrder Guides</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020-2024 Thulite</copyright>
+    <lastBuildDate>Fri, 07 Feb 2025 13:08:00 +0200</lastBuildDate>
+    <atom:link href="https://wiki.inorder.gr/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Έκπτωση</title>
+      <link>https://wiki.inorder.gr/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+      <pubDate>Wed, 04 Dec 2024 12:14:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
+      <description>Έκπτωση (Είδος, παραγγελία)</description>
+    </item>
+    <item>
+      <title>Επεξεργασία παραγγελίας</title>
+      <link>https://wiki.inorder.gr/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</link>
+      <pubDate>Fri, 07 Feb 2025 11:14:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</guid>
+      <description>Επεξεργασία παραγγελίας (Mobile)</description>
+    </item>
+  </channel>
+</rss>

@@ -42,6 +42,13 @@
 			{{ else -}}
 				{{ .Content }}
 			{{ end -}}
+			{{ if .Params.tags -}}
+			<div class="tag-list-single">
+				{{ range $index, $tag := .Params.tags -}}
+					<a class="btn btn-light" href="{{ "./tags/" | relLangURL }}{{ . | urlize }}/" role="button">{{ . }}</a>
+				{{ end -}}
+			</div>
+			{{ end -}}
 			<div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
 				{{ if site.Params.doks.lastMod -}}
 					{{ partial "main/last-modified.html" . }}
