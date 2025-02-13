@@ -14,6 +14,7 @@ seo:
   noindex: false
 tags:
   - mobile service host
+  - βάρδιες
 contributors:
   - wizcom
 ---

@@ -25,25 +25,25 @@
 {{ if eq $.Site.Language.LanguageName "English" }}
 <section class="section section-md section-features p-1">
 
-      <div class="mx-auto grid max-w-[768px] px-2 d-none">
-        <h2 class="h4 text-center">Οδηγός χρήσης για το Wizcom inOrder</h2>
-        <p>Ο παρών οδηγός έχει δημιουργηθεί με σκοπό να υποστηρίξει τους
-          συνεργάτες μας στην εγκατάσταση, διαχείριση και τεχνική υποστήριξη του
-          Wizcom inOrder. Ενημερώνεται τακτικά ώστε να συμβαδίζει με τις
-          τελευταίες εκδόσεις του λογισμικού, παρέχοντας παράλληλα πληροφορίες
-          και οδηγίες που καλύπτουν και παλαιότερες εκδόσεις.<br>
-          Ο στόχος αυτού του οδηγού είναι:</p>
-        <ul>
-          <li>Να προσφέρει πρακτικές λύσεις σε σύνθετες εγκαταστάσεις και
-            ρυθμίσεις.</li>
-          <li>Να ενισχύσει την ικανότητα των συνεργατών μας στην αντιμετώπιση
-            τεχνικών ζητημάτων.</li>
-          <li>Να διατηρεί την τεκμηρίωση ενημερωμένη με βάση τις εξελίξεις και
-            τις νέες λειτουργίες του inOrder.</li>
-        </ul>
-        <p>Ελπίζουμε να βρείτε τον οδηγό χρήσιμο και να συμβάλει στην επιτυχία
-          των έργων σας.</p>
-      </div>
+  <div class="mx-auto grid max-w-[768px] px-2 d-none">
+    <h2 class="h4 text-center">Οδηγός χρήσης για το Wizcom inOrder</h2>
+    <p>Ο παρών οδηγός έχει δημιουργηθεί με σκοπό να υποστηρίξει τους
+      συνεργάτες μας στην εγκατάσταση, διαχείριση και τεχνική υποστήριξη του
+      Wizcom inOrder. Ενημερώνεται τακτικά ώστε να συμβαδίζει με τις
+      τελευταίες εκδόσεις του λογισμικού, παρέχοντας παράλληλα πληροφορίες
+      και οδηγίες που καλύπτουν και παλαιότερες εκδόσεις.<br>
+      Ο στόχος αυτού του οδηγού είναι:</p>
+    <ul>
+      <li>Να προσφέρει πρακτικές λύσεις σε σύνθετες εγκαταστάσεις και
+        ρυθμίσεις.</li>
+      <li>Να ενισχύσει την ικανότητα των συνεργατών μας στην αντιμετώπιση
+        τεχνικών ζητημάτων.</li>
+      <li>Να διατηρεί την τεκμηρίωση ενημερωμένη με βάση τις εξελίξεις και
+        τις νέες λειτουργίες του inOrder.</li>
+    </ul>
+    <p>Ελπίζουμε να βρείτε τον οδηγό χρήσιμο και να συμβάλει στην επιτυχία
+      των έργων σας.</p>
+  </div>
 
 </section>
 <section class="section section-md section-features">
@@ -74,8 +74,8 @@
         <article class="p-6">
           <p class="text-primary" style="font-size: 14px;">{{ .Params.lastmod |
             dateFormat "January 2, 2006" }}</p>
-          <h3><a class="text-body fw-bold"
-              href="{{ .RelPermalink }}">{{ .Params.title }}</a></h3>
+          <h4><a class="text-body fw-bold"
+              href="{{ .RelPermalink }}">{{ .Params.title }}</a></h4>
           <p>{{ .Params.summary | safeHTML }}</p>
 
         </article>
@@ -85,6 +85,24 @@
     </div>
   </div>
 </section>
+
+<section>
+
+  <div class="mx-auto grid max-w-[768px] px-2">
+
+    <h2 class="text-center">All Tags</h2>
+
+    <div class="tag-list-single">
+      {{ range $key, $value := .Site.Taxonomies.tags }}
+
+      <a class="btn btn-light" href="{{ "./tags/" | relURL }}{{ $key | urlize
+        }}">{{ $key }}</a>
+
+      {{ end }}
+    </div>
+  </div>
+</section>
+
 {{ end }}
 {{ end }}
 

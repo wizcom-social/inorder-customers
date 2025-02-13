@@ -10,6 +10,13 @@
     <lastBuildDate>Fri, 07 Feb 2025 13:08:00 +0200</lastBuildDate>
     <atom:link href="https://wiki.inorder.gr/contributors/wizcom/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Άνοιγμα - Λήξη βάρδιας</title>
+      <link>https://wiki.inorder.gr/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</link>
+      <pubDate>Tue, 31 Dec 2024 15:57:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
+      <description>Άνοιγμα - Λήξη βάρδιας (POS)</description>
+    </item>
+    <item>
       <title>Delivery (Διανομή)</title>
       <link>https://wiki.inorder.gr/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
@@ -36,6 +43,13 @@
       <pubDate>Fri, 07 Feb 2025 11:14:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</guid>
       <description>Επεξεργασία παραγγελίας (Mobile)</description>
+    </item>
+    <item>
+      <title>Τιμοκατάλογοι</title>
+      <link>https://wiki.inorder.gr/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</link>
+      <pubDate>Tue, 07 Jan 2025 14:22:00 +0200</pubDate>
+      <guid>https://wiki.inorder.gr/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</guid>
+      <description>Τιμοκατάλογοι, εκπτώσεις</description>
     </item>
   </channel>
 </rss>
