@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Βάρδιες on inOrder Guides</title>
-    <link>https://wiki.inorder.gr/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/</link>
+    <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/</link>
     <description>Recent content in Βάρδιες on inOrder Guides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Fri, 07 Feb 2025 10:23:00 +0200</lastBuildDate>
-    <atom:link href="https://wiki.inorder.gr/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Άνοιγμα - Λήξη βάρδιας</title>
-      <link>https://wiki.inorder.gr/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</link>
+      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</link>
       <pubDate>Tue, 31 Dec 2024 15:57:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
+      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
       <description>Άνοιγμα - Λήξη βάρδιας (POS)</description>
     </item>
     <item>
       <title>Εισαγωγή</title>
-      <link>https://wiki.inorder.gr/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
+      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
       <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</guid>
+      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</guid>
       <description>Οδηγίες χρήσης inOrder Mobile</description>
     </item>
   </channel>
