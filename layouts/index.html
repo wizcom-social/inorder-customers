@@ -25,8 +25,8 @@
 {{ if eq $.Site.Language.LanguageName "English" }}
 <section class="section section-md section-features p-1">
 
-  <div class="mx-auto grid max-w-[768px] px-2 d-none">
-    <h2 class="h4 text-center">Οδηγός χρήσης για το Wizcom inOrder</h2>
+  <div class="mx-auto grid container px-2 d-none">
+    <h2 class>Οδηγός χρήσης για το Wizcom inOrder</h2>
     <p>Ο παρών οδηγός έχει δημιουργηθεί με σκοπό να υποστηρίξει τους
       συνεργάτες μας στην εγκατάσταση, διαχείριση και τεχνική υποστήριξη του
       Wizcom inOrder. Ενημερώνεται τακτικά ώστε να συμβαδίζει με τις
@@ -46,11 +46,17 @@
   </div>
 
 </section>
+
+
+
+
+
+
 <section class="section section-md section-features">
   <div class="container d-none">
 
     {{ range .Site.RegularPages }}
-    <div class="border rounded-lg mb-2">
+    <div class="border rounded-lg mb-2 shadow-lg-tw">
       <div class="p-6 ">
         {{ .Date | time.Format ":date_medium" }} → Oct 19, 2023
         <h4><a href="{{ .RelPermalink }}">{{ .Weight }} - {{ .LinkTitle
@@ -63,13 +69,12 @@
   {{ $docs_pages := where .Site.RegularPages.ByLastmod.Reverse "Section" "=="
   "docs" }}
 
-  <h2 class="text-center pb-4 text-uppercase">latest guides</h2>
-  <div class="mx-auto grid max-w-[768px] px-2">
+  <div class="mx-auto grid container px-2">
+    <h2 class="pb-4 ">Latest guides</h2>
+    <div class="grid gap-4 xl:grid-cols-3">
 
-    <div class="grid gap-4 sm:grid-cols-2">
-
-      {{ range first 4 $docs_pages }}
-      <div class="col-span-1 rounded-lg border">
+      {{ range first 3 $docs_pages }}
+      <div class="col-span-1 rounded-lg border shadow-lg-tw">
 
         <article class="p-6">
           <p class="text-primary" style="font-size: 14px;">{{ .Params.lastmod |
@@ -88,9 +93,9 @@
 
 <section>
 
-  <div class="mx-auto grid max-w-[768px] px-2">
+  <div class="mx-auto grid container px-2">
 
-    <h2 class="text-center">All Tags</h2>
+    <h2 class>All Tags</h2>
 
     <div class="tag-list-single">
       {{ range $key, $value := .Site.Taxonomies.tags }}
