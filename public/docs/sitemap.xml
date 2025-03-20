@@ -2,165 +2,171 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/</loc>
+      <loc>http://localhost:1313/docs/pos/</loc>
       <lastmod>2024-12-31T15:11:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/</loc>
+      <loc>http://localhost:1313/docs/mobile/</loc>
       <lastmod>2023-09-07T16:12:37+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/</loc>
+      <loc>http://localhost:1313/docs/backoffice/</loc>
       <lastmod>2024-10-29T14:49:00+02:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</loc>
+        <loc>http://localhost:1313/docs/pos/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-%CE%BA%CE%B1%CE%B9-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%AC%CE%BB%CE%BB%CE%BF%CE%BD-inorder-pos/</loc>
         <lastmod>2025-01-29T16:35:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</loc>
+        <loc>http://localhost:1313/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</loc>
         <lastmod>2025-01-02T10:48:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</loc>
+        <loc>http://localhost:1313/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</loc>
         <lastmod>2025-01-02T10:53:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
+        <loc>http://localhost:1313/docs/pos/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
         <lastmod>2025-01-29T15:07:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</loc>
+        <loc>http://localhost:1313/docs/pos/dinein-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</loc>
         <lastmod>2024-12-31T15:35:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</loc>
+        <loc>http://localhost:1313/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</loc>
         <lastmod>2025-01-02T14:25:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/self-service-/-take-away/</loc>
+        <loc>http://localhost:1313/docs/pos/self-service-/-take-away/</loc>
         <lastmod>2025-01-03T14:05:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</loc>
+        <loc>http://localhost:1313/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</loc>
         <lastmod>2024-12-04T12:14:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</loc>
+        <loc>http://localhost:1313/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</loc>
         <lastmod>2025-01-16T10:31:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</loc>
+        <loc>http://localhost:1313/docs/pos/%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7-%CF%80%CE%B9%CF%83%CF%84%CF%89%CF%84%CE%B9%CE%BA%CE%BF%CF%8D-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B7%CF%82-%CE%B5%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%CF%82/</loc>
+        <lastmod>2025-03-20T09:10:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>http://localhost:1313/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</loc>
         <lastmod>2025-02-07T10:23:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
+        <loc>http://localhost:1313/docs/mobile/%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1/</loc>
         <lastmod>2025-01-08T14:03:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</loc>
+        <loc>http://localhost:1313/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</loc>
         <lastmod>2025-02-07T13:08:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/dine-in-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</loc>
+        <loc>http://localhost:1313/docs/mobile/dine-in-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</loc>
         <lastmod>2025-02-10T11:05:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-inorder-backoffice/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE-inorder-backoffice/</loc>
         <lastmod>2025-01-02T16:05:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%BC%CE%B5%CE%BD%CE%BF%CF%8D-%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CE%AF%CE%B4%CE%B7/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%BC%CE%B5%CE%BD%CE%BF%CF%8D-%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B5%CF%82-%CE%B5%CE%AF%CE%B4%CE%B7/</loc>
         <lastmod>2025-01-09T11:56:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%BC%CE%B5%CE%BD%CE%BF%CF%8D-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B5%CF%82-%CE%B9%CE%B4%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-/-%CE%B9%CE%B4%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%BC%CE%B5%CE%BD%CE%BF%CF%8D-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B5%CF%82-%CE%B9%CE%B4%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-/-%CE%B9%CE%B4%CE%B9%CF%8C%CF%84%CE%B7%CF%84%CE%B5%CF%82/</loc>
         <lastmod>2025-01-07T10:45:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</loc>
         <lastmod>2025-01-16T15:18:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%86%CF%80%CE%B1/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CF%86%CF%80%CE%B1/</loc>
         <lastmod>2025-01-07T15:34:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7%CF%82-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%BD%CE%B1%CE%BB%CF%8E%CF%83%CE%B5%CF%89%CE%BD/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7%CF%82-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%BD%CE%B1%CE%BB%CF%8E%CF%83%CE%B5%CF%89%CE%BD/</loc>
         <lastmod>2025-01-17T13:36:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%83%CF%85%CE%BD%CE%B1%CE%BB%CE%BB%CE%B1%CF%83%CF%83%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CF%83%CF%85%CE%BD%CE%B1%CE%BB%CE%BB%CE%B1%CF%83%CF%83%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF%CE%B9/</loc>
         <lastmod>2025-01-10T09:34:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%B1%CE%B3%CE%BF%CF%81%CE%AD%CF%82/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%B1%CE%B3%CE%BF%CF%81%CE%AD%CF%82/</loc>
         <lastmod>2025-02-10T14:45:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%B9%CE%BD%CE%BF-%CE%B4%CF%85%CE%BD%CE%B1%CE%BC%CE%B9%CE%BA%CF%8C/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%B1%CE%BD%CE%B8%CF%81%CF%8E%CF%80%CE%B9%CE%BD%CE%BF-%CE%B4%CF%85%CE%BD%CE%B1%CE%BC%CE%B9%CE%BA%CF%8C/</loc>
         <lastmod>2025-01-07T16:56:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82-%CE%BA%CE%B1%CE%B9-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7-%CE%B6/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82-%CE%BA%CE%B1%CE%B9-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7-%CE%B6/</loc>
         <lastmod>2025-01-22T10:53:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CE%B5%CF%83%CF%84%CE%AF%CE%B1%CF%83%CE%B7/</loc>
+        <loc>http://localhost:1313/docs/backoffice/%CF%81%CF%85%CE%B8%CE%BC%CE%AF%CF%83%CE%B5%CE%B9%CF%82-%CE%B5%CF%83%CF%84%CE%AF%CE%B1%CF%83%CE%B7/</loc>
         <lastmod>2025-01-20T15:13:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

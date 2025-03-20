@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Διανομή on inOrder Guides</title>
-    <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
+    <link>http://localhost:1313/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
     <description>Recent content in Διανομή on inOrder Guides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Thu, 02 Jan 2025 14:25:00 +0200</lastBuildDate>
-    <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Delivery (Διανομή)</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
+      <link>http://localhost:1313/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
+      <guid>http://localhost:1313/docs/pos/delivery-%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
       <description>Delivery (Διανομή)</description>
     </item>
   </channel>

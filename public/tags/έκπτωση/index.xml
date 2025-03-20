@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Έκπτωση on inOrder Guides</title>
-    <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+    <link>http://localhost:1313/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
     <description>Recent content in Έκπτωση on inOrder Guides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Fri, 07 Feb 2025 13:08:00 +0200</lastBuildDate>
-    <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Έκπτωση</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+      <link>http://localhost:1313/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
       <pubDate>Wed, 04 Dec 2024 12:14:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
+      <guid>http://localhost:1313/docs/pos/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
       <description>Έκπτωση (Είδος, παραγγελία)</description>
     </item>
     <item>
       <title>Επεξεργασία παραγγελίας</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</link>
+      <link>http://localhost:1313/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</link>
       <pubDate>Fri, 07 Feb 2025 11:14:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</guid>
+      <guid>http://localhost:1313/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</guid>
       <description>Επεξεργασία παραγγελίας (Mobile)</description>
     </item>
     <item>
       <title>Τιμοκατάλογοι</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</link>
+      <link>http://localhost:1313/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</link>
       <pubDate>Tue, 07 Jan 2025 14:22:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</guid>
+      <guid>http://localhost:1313/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</guid>
       <description>Τιμοκατάλογοι, εκπτώσεις</description>
     </item>
   </channel>

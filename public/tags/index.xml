@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on inOrder Guides</title>
-    <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on inOrder Guides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
     <lastBuildDate>Fri, 07 Feb 2025 13:08:00 +0200</lastBuildDate>
-    <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Έκπτωση</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
+      <link>http://localhost:1313/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</link>
       <pubDate>Fri, 07 Feb 2025 11:14:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
+      <guid>http://localhost:1313/tags/%CE%AD%CE%BA%CF%80%CF%84%CF%89%CF%83%CE%B7/</guid>
       <description></description>
     </item>
     <item>
       <title>Mobile Service Host</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/mobile-service-host/</link>
+      <link>http://localhost:1313/tags/mobile-service-host/</link>
       <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/mobile-service-host/</guid>
+      <guid>http://localhost:1313/tags/mobile-service-host/</guid>
       <description></description>
     </item>
     <item>
       <title>Βάρδιες</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/</link>
+      <link>http://localhost:1313/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/</link>
       <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/</guid>
+      <guid>http://localhost:1313/tags/%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B5%CF%82/</guid>
       <description></description>
     </item>
     <item>
       <title>Delivery</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/delivery/</link>
+      <link>http://localhost:1313/tags/delivery/</link>
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/delivery/</guid>
+      <guid>http://localhost:1313/tags/delivery/</guid>
       <description></description>
     </item>
     <item>
       <title>Διανομή</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
+      <link>http://localhost:1313/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</link>
       <pubDate>Thu, 02 Jan 2025 14:25:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
+      <guid>http://localhost:1313/tags/%CE%B4%CE%B9%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE/</guid>
       <description></description>
     </item>
   </channel>
