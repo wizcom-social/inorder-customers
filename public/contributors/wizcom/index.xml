@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 19 Jun 2025 11:50:00 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 13:52:00 +0300</lastBuildDate>
     <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/contributors/wizcom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Άνοιγμα - Λήξη βάρδιας</title>
@@ -15,6 +15,13 @@
       <pubDate>Tue, 31 Dec 2024 15:57:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AC%CE%BD%CE%BF%CE%B9%CE%B3%CE%BC%CE%B1-%CE%BB%CE%AE%CE%BE%CE%B7-%CE%B2%CE%AC%CF%81%CE%B4%CE%B9%CE%B1%CF%82/</guid>
       <description>Άνοιγμα - Λήξη βάρδιας (POS)</description>
+    </item>
+    <item>
+      <title>Κλεισίματα ταμείων InOrder</title>
+      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CE%AF%CE%BC%CE%B1%CF%84%CE%B1-%CF%84%CE%B1%CE%BC%CE%B5%CE%AF%CF%89%CE%BD-inorder/</link>
+      <pubDate>Thu, 26 Jun 2025 13:52:00 +0300</pubDate>
+      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CE%AF%CE%BC%CE%B1%CF%84%CE%B1-%CF%84%CE%B1%CE%BC%CE%B5%CE%AF%CF%89%CE%BD-inorder/</guid>
+      <description>Kλείσιμο ταμείων υπαλλήλων, διαθέσιμες αναφορές , κλείσιμο ημέρας.</description>
     </item>
     <item>
       <title>Delivery (Διανομή)</title>
@@ -71,13 +78,6 @@
       <pubDate>Tue, 07 Jan 2025 14:22:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</guid>
       <description>Τιμοκατάλογοι, εκπτώσεις</description>
-    </item>
-    <item>
-      <title>Συσχετιζόμενες ομάδες ιδιοτήτων για την διασύνδεση με πλατφόρμες delivery</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%83%CF%85%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%B6%CF%8C%CE%BC%CE%B5%CE%BD%CE%B5%CF%82-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B5%CF%82-%CE%B9%CE%B4%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%B4%CE%B9%CE%B1%CF%83%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%B7-%CE%BC%CE%B5-%CF%80%CE%BB%CE%B1%CF%84%CF%86%CF%8C%CF%81%CE%BC%CE%B5%CF%82-delivery/</link>
-      <pubDate>Mon, 07 Apr 2025 11:13:00 +0300</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%83%CF%85%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%B6%CF%8C%CE%BC%CE%B5%CE%BD%CE%B5%CF%82-%CE%BF%CE%BC%CE%AC%CE%B4%CE%B5%CF%82-%CE%B9%CE%B4%CE%B9%CE%BF%CF%84%CE%AE%CF%84%CF%89%CE%BD-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%B4%CE%B9%CE%B1%CF%83%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%B7-%CE%BC%CE%B5-%CF%80%CE%BB%CE%B1%CF%84%CF%86%CF%8C%CF%81%CE%BC%CE%B5%CF%82-delivery/</guid>
-      <description>Συσχετιζόμενες ομάδες ιδιοτήτων για την διασύνδεση με πλατφόρμες delivery</description>
     </item>
   </channel>
 </rss>

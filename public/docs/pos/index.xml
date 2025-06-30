@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 20 Mar 2025 09:10:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 13:52:00 +0300</lastBuildDate>
     <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Εισαγωγή και περιβάλλον inOrder POS</title>
@@ -29,6 +29,13 @@
       <pubDate>Thu, 02 Jan 2025 10:53:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BA%CE%BB%CE%B5%CE%AF%CF%83%CE%B9%CE%BC%CE%BF-%CE%B7%CE%BC%CE%AD%CF%81%CE%B1%CF%82/</guid>
       <description>Κλείσιμο ημέρας</description>
+    </item>
+    <item>
+      <title>Κλεισίματα ταμείων InOrder</title>
+      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CE%AF%CE%BC%CE%B1%CF%84%CE%B1-%CF%84%CE%B1%CE%BC%CE%B5%CE%AF%CF%89%CE%BD-inorder/</link>
+      <pubDate>Thu, 26 Jun 2025 13:52:00 +0300</pubDate>
+      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CE%AF%CE%BC%CE%B1%CF%84%CE%B1-%CF%84%CE%B1%CE%BC%CE%B5%CE%AF%CF%89%CE%BD-inorder/</guid>
+      <description>Kλείσιμο ταμείων υπαλλήλων, διαθέσιμες αναφορές , κλείσιμο ημέρας.</description>
     </item>
     <item>
       <title>Παραγγελία</title>
@@ -71,13 +78,6 @@
       <pubDate>Thu, 16 Jan 2025 10:31:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85/</guid>
       <description>Οδηγίες έκδοσης τιμολογίου</description>
-    </item>
-    <item>
-      <title> Έκδοση Πιστωτικού Τιμολογίου και Απόδειξης Επιστροφής</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7-%CF%80%CE%B9%CF%83%CF%84%CF%89%CF%84%CE%B9%CE%BA%CE%BF%CF%8D-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B7%CF%82-%CE%B5%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%CF%82/</link>
-      <pubDate>Wed, 19 Mar 2025 14:03:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7-%CF%80%CE%B9%CF%83%CF%84%CF%89%CF%84%CE%B9%CE%BA%CE%BF%CF%8D-%CF%84%CE%B9%CE%BC%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%BF%CF%85-%CE%BA%CE%B1%CE%B9-%CE%B1%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B7%CF%82-%CE%B5%CF%80%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%CF%82/</guid>
-      <description>Έκδοση Πιστωτικού Τιμολογίου και Απόδειξης Επιστροφής</description>
     </item>
   </channel>
 </rss>
