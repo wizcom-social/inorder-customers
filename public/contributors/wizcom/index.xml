@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 26 Jun 2025 13:52:00 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 12:10:00 +0300</lastBuildDate>
     <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/contributors/wizcom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Άνοιγμα - Λήξη βάρδιας</title>
@@ -59,6 +59,13 @@
       <description>Πολλαπλές αναμονές παραγγελίας</description>
     </item>
     <item>
+      <title>Οδηγός έκδοσης Ζ και έκδοσης τελών περιβαλλοντολογικού  τέλους</title>
+      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B5%CE%BB%CF%8E%CE%BD-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%8D-%CF%84%CE%AD%CE%BB%CE%BF%CF%85%CF%82/</link>
+      <pubDate>Thu, 17 Jul 2025 12:10:00 +0300</pubDate>
+      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B5%CE%BB%CF%8E%CE%BD-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%8D-%CF%84%CE%AD%CE%BB%CE%BF%CF%85%CF%82/</guid>
+      <description>Στην τελευταία έκδοση του InOrder έχουμε τη δυνατότητα να εκτυπώνουμε ή να εξάγουμε τα Ζ και τα τέλη συνολικά ώστε να τα παραδίδουμε στον λογιστή κάθε τέλος του μήνα.</description>
+    </item>
+    <item>
       <title>Εισαγωγή</title>
       <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
       <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
@@ -71,13 +78,6 @@
       <pubDate>Fri, 07 Feb 2025 11:14:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</guid>
       <description>Επεξεργασία παραγγελίας (Mobile)</description>
-    </item>
-    <item>
-      <title>Τιμοκατάλογοι</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</link>
-      <pubDate>Tue, 07 Jan 2025 14:22:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/backoffice/%CF%84%CE%B9%CE%BC%CE%BF%CE%BA%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/</guid>
-      <description>Τιμοκατάλογοι, εκπτώσεις</description>
     </item>
   </channel>
 </rss>

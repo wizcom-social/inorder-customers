@@ -100,6 +100,12 @@
         <priority>0.5</priority>
       </url>
       <url>
+        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CE%B6-%CE%BA%CE%B1%CE%B9-%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7%CF%82-%CF%84%CE%B5%CE%BB%CF%8E%CE%BD-%CF%80%CE%B5%CF%81%CE%B9%CE%B2%CE%B1%CE%BB%CE%BB%CE%BF%CE%BD%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%BF%CF%8D-%CF%84%CE%AD%CE%BB%CE%BF%CF%85%CF%82/</loc>
+        <lastmod>2025-07-17T12:10:00+03:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
         <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</loc>
         <lastmod>2025-02-07T10:23:00+02:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -120,6 +126,12 @@
       <url>
         <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/dine-in-%CF%83%CE%B1%CE%BB%CF%8C%CE%BD%CE%B9/</loc>
         <lastmod>2025-02-10T11:05:00+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url>
+      <url>
+        <loc>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B4%CE%B9%CE%B1%CF%87%CF%89%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD%CF%84%CF%89%CE%BD-%CE%BC%CE%B5-%CE%B5%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE-%CE%B8%CE%AD%CF%83%CE%B7%CF%82/</loc>
+        <lastmod>2025-07-17T12:57:00+03:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
