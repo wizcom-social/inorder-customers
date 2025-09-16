@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2020-2024 Thulite</copyright>
-    <lastBuildDate>Thu, 17 Jul 2025 12:10:00 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 09:41:00 +0300</lastBuildDate>
     <atom:link href="https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/contributors/wizcom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Άνοιγμα - Λήξη βάρδιας</title>
@@ -66,18 +66,18 @@
       <description>Στην τελευταία έκδοση του InOrder έχουμε τη δυνατότητα να εκτυπώνουμε ή να εξάγουμε τα Ζ και τα τέλη συνολικά ώστε να τα παραδίδουμε στον λογιστή κάθε τέλος του μήνα.</description>
     </item>
     <item>
+      <title>Οδηγός Μαζικής διαβίβασης παραστατικών</title>
+      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%BC%CE%B1%CE%B6%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%B9%CE%B1%CE%B2%CE%AF%CE%B2%CE%B1%CF%83%CE%B7%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%84%CE%B1%CF%84%CE%B9%CE%BA%CF%8E%CE%BD/</link>
+      <pubDate>Tue, 16 Sep 2025 09:41:00 +0300</pubDate>
+      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/pos/%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%BC%CE%B1%CE%B6%CE%B9%CE%BA%CE%AE%CF%82-%CE%B4%CE%B9%CE%B1%CE%B2%CE%AF%CE%B2%CE%B1%CF%83%CE%B7%CF%82-%CF%80%CE%B1%CF%81%CE%B1%CF%83%CF%84%CE%B1%CF%84%CE%B9%CE%BA%CF%8E%CE%BD/</guid>
+      <description>Εντοπίστε τα μη διαβιβασμένα παραστατικά υποβάλλεται τα σωστά και έγκαιρα</description>
+    </item>
+    <item>
       <title>Εισαγωγή</title>
       <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</link>
       <pubDate>Wed, 08 Jan 2025 10:30:00 +0200</pubDate>
       <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE/</guid>
       <description>Οδηγίες χρήσης inOrder Mobile</description>
-    </item>
-    <item>
-      <title>Επεξεργασία παραγγελίας</title>
-      <link>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</link>
-      <pubDate>Fri, 07 Feb 2025 11:14:00 +0200</pubDate>
-      <guid>https://wiki.inorder.gr/2db1ef79-c6fd-ef11-80db-d4ae52cd9be7/docs/mobile/%CE%B5%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B3%CE%B3%CE%B5%CE%BB%CE%AF%CE%B1%CF%82/</guid>
-      <description>Επεξεργασία παραγγελίας (Mobile)</description>
     </item>
   </channel>
 </rss>
